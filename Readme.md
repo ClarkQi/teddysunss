@@ -45,7 +45,7 @@ Copyright (C) 2014-2017 Teddysun
 
 安装方法
 ===============
-- wget --no-check-certificate -O shadowsocks-go.sh https://raw.githubusercontent.com/ClarkQi/shadowsocks_install/master/shadowsocks-go.sh
+- wget --no-check-certificate -O shadowsocks-go.sh https://raw.githubusercontent.com/ClarkQi/teddysunss/master/shadowsocks-go.sh
 - chmod +x shadowsocks-go.sh
 - ./shadowsocks-go.sh 2>&1 | tee shadowsocks-go.log
 
